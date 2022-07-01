@@ -11,6 +11,7 @@ This portfolio is a single-page application built through Create-React-App, whic
 ## What it looks like
 
 Link to deployed page: https://winniecwu.github.io/winniewu-professional-portfolio/
+
 Screenshot of deployed app:
 ![Screenshot](https://user-images.githubusercontent.com/95206117/176830656-1ed9e4a1-2e12-43d3-8971-76c6f7513e15.JPG)
 
